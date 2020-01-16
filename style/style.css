@@ -1,0 +1,23 @@
+*,
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    width: 170px;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+    border-radius: 100%;
+    font-size: 3rem;
+    background-color: rgb(241, 241, 241);
+    color: rgb(255, 180, 42);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
